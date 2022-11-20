@@ -5,54 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="mystyle.css">
     <style>
-        *{
-            background-color: lightgray;
-        }
-            div{
-                margin: 15px;
-                border:3px solid black ; 
-                font-size: 25px;
-                height: auto;
-    
-            }
-            #header{
-                background-color: rgb(131, 133, 132);
-            }
-    
-            #sidebarR{
-                background-color: rgb(182, 133, 133);
-                float: right;
-                width: 100px;
-            }
-            
-            #sidebarL{
-                background-color: rgb(121, 96, 96);
-                float: left;
-                width: 100px;
-            }
-            #main{
-                background-color: rgb(3, 104, 138);
-                height: 180px;
-                margin-right: 130px;
-                margin-left: 130px;
-            }
-            #footer{
-                background-color: rgb(155, 211, 155);
-            
-            }
-    
-            img{
-                border-radius: 50%;
-            }
-    
-            .centre{
-                display: block;
-                margin-left: auto;
-                margin-right: auto;
-            }
-    
-        </style>
+      *{
+          background-color: beige;
+      }
+      </style>
+   
 </head>
 <body>
     <div class="box">
