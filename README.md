@@ -33,7 +33,8 @@
           <label for="subject">კომენტარი</label>
           <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
       
-          <input type="submit" value="Submit">
+          <input type="submit" value="Delete">
+          <input type="Submit" value="Submit">
       
         </form>
       </div>
